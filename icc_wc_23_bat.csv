@@ -1,0 +1,876 @@
+player,dismissal,runs,balls,minutes,4s,6s,strike_rate
+Rohit Sharma,b,4,2,2,1,0,200
+Shubman Gill,c,92,92,136,11,2,100
+Virat Kohli,c,88,94,139,11,0,93.61
+Shreyas Iyer,c,82,56,84,3,6,146.42
+KL Rahul,c,21,19,34,2,0,110.52
+Suryakumar Yadav,c,12,9,13,2,0,133.33
+Ravindra Jadeja,run,35,24,41,1,1,145.83
+Mohammed Shami,run,2,4,11,0,0,50
+Jasprit Bumrah,not,1,1,1,0,0,100
+Fakhar Zaman,c,12,15,14,3,0,80
+Imam-ul-Haq,c,15,19,40,2,0,78.94
+Babar Azam,c,5,18,20,0,0,27.77
+Mohammad Rizwan,b,68,75,104,8,0,90.66
+Saud Shakeel,c,68,52,84,9,1,130.76
+Iftikhar Ahmed,c,9,11,22,1,0,81.81
+Mohammad Nawaz,run,39,43,66,4,0,90.69
+Shadab Khan,b,32,34,42,2,1,94.11
+Hasan Ali,lbw,0,1,2,0,0,0
+Shaheen Shah Afridi,not,13,12,23,2,0,108.33
+Haris Rauf,st,16,14,10,2,1,114.28
+Rohit Sharma,c,47,31,44,4,3,151.61
+Shubman Gill,c,4,7,21,0,0,57.14
+Virat Kohli,b,54,63,99,4,0,85.71
+Shreyas Iyer,c,4,3,3,1,0,133.33
+KL Rahul,c,66,107,133,1,0,61.68
+Ravindra Jadeja,c,9,22,33,0,0,40.9
+Suryakumar Yadav,c,18,28,57,1,0,64.28
+Mohammed Shami,c,6,10,9,1,0,60
+Jasprit Bumrah,lbw,1,3,5,0,0,33.33
+Kuldeep Yadav,run,10,18,28,0,0,55.55
+Mohammed Siraj,not,9,8,13,1,0,112.5
+Rohit Sharma,c,87,101,162,10,3,86.13
+Shubman Gill,b,9,13,18,1,0,69.23
+Virat Kohli,c,0,9,12,0,0,0
+Shreyas Iyer,c,4,16,21,0,0,25
+KL Rahul,c,39,58,77,3,0,67.24
+Suryakumar Yadav,c,49,47,75,4,1,104.25
+Ravindra Jadeja,lbw,8,13,14,0,0,61.53
+Mohammed Shami,c,1,5,4,0,0,20
+Jasprit Bumrah,run,16,25,44,1,0,64
+Kuldeep Yadav,not,9,13,18,1,0,69.23
+Vikramjit Singh,lbw,4,13,17,1,0,30.76
+Max O'Dowd,b,16,27,50,1,1,59.25
+Colin Ackermann,c,29,31,42,5,0,93.54
+Bas de Leede,c,6,21,33,0,0,28.57
+Teja Nidamanuru,lbw,9,16,32,0,0,56.25
+Scott Edwards,b,16,16,22,0,0,100
+Sybrand Engelbrecht,b,70,82,100,4,1,85.36
+Logan van Beek,c,59,75,108,1,1,78.66
+Roelof van der Merwe,c,7,7,12,0,0,100
+Aryan Dutt,not,9,6,14,1,0,150
+Paul van Meekeren,run,4,5,6,0,0,80
+Quinton de Kock,c,174,140,192,15,7,124.28
+Reeza Hendricks,b,12,19,24,1,0,63.15
+Rassie van der Dussen,lbw,1,7,6,0,0,14.28
+Aiden Markram,c,60,69,84,7,0,86.95
+Heinrich Klaasen,c,90,49,94,2,8,183.67
+David Miller,not,34,15,26,1,4,226.66
+Marco Jansen,not,1,1,3,0,0,100
+Litton Das,c,0,1,1,0,0,0
+Tanzid Hasan,c,16,17,37,4,0,94.11
+Mehidy Hasan Miraz,c,30,46,52,4,0,65.21
+Najmul Hossain Shanto,c,7,8,20,1,0,87.5
+Shakib Al Hasan,c,40,51,75,3,2,78.43
+Mushfiqur Rahim,b,66,75,93,6,2,88
+Towhid Hridoy,c,13,25,30,0,0,52
+Mahmudullah,not,41,49,58,2,2,83.67
+Taskin Ahmed,c,17,19,25,0,2,89.47
+Mustafizur Rahman,c,4,10,14,0,0,40
+Shoriful Islam,not,2,3,9,0,0,66.66
+Abdullah Shafique,lbw,20,24,39,3,0,83.33
+Imam-ul-Haq,c,36,38,64,6,0,94.73
+Babar Azam,b,50,58,89,7,0,86.2
+Mohammad Rizwan,b,49,69,89,7,0,71.01
+Saud Shakeel,lbw,6,10,12,0,0,60
+Iftikhar Ahmed,b,4,4,2,1,0,100
+Shadab Khan,b,2,5,11,0,0,40
+Mohammad Nawaz,c,4,14,25,0,0,28.57
+Hasan Ali,c,12,19,21,2,0,63.15
+Shaheen Shah Afridi,not,2,10,12,0,0,20
+Haris Rauf,lbw,2,6,9,0,0,33.33
+Pathum Nissanka,c,2,8,9,0,0,25
+Kusal Perera,c,51,28,46,9,2,182.14
+Kusal Mendis,c,6,7,11,1,0,85.71
+Sadeera Samarawickrama,c,1,2,2,0,0,50
+Charith Asalanka,lbw,8,8,16,1,0,100
+Angelo Mathews,c,16,27,33,2,0,59.25
+Dhananjaya de Silva,c,19,24,36,2,1,79.16
+Chamika Karunaratne,c,6,17,28,1,0,35.29
+Maheesh Theekshana,not,38,91,109,3,0,41.75
+Dushmantha Chameera,c,1,20,32,0,0,5
+Dilshan Madushanka,c,19,48,56,2,0,39.58
+Rohit Sharma,c,47,29,40,4,4,162.06
+Shubman Gill,not,80,66,116,8,3,121.21
+Virat Kohli,c,117,113,149,9,2,103.53
+Shreyas Iyer,c,105,70,114,4,8,150
+KL Rahul,not,39,20,29,5,2,195
+Suryakumar Yadav,c,1,2,2,0,0,50
+Wesley Barresi,lbw,1,4,3,0,0,25
+Max O'Dowd,run,42,40,50,9,0,105
+Colin Ackermann,run,29,35,71,4,0,82.85
+Sybrand Engelbrecht,run,58,86,85,6,0,67.44
+Scott Edwards,run,0,1,1,0,0,0
+Bas de Leede,c,3,6,5,0,0,50
+Saqib Zulfiqar,c,3,15,19,0,0,20
+Logan van Beek,st,2,13,16,0,0,15.38
+Roelof van der Merwe,c,11,33,36,0,0,33.33
+Aryan Dutt,not,10,22,42,0,0,45.45
+Paul van Meekeren,lbw,4,24,18,0,0,16.66
+Pathum Nissanka,b,41,36,61,8,0,113.88
+Kusal Perera,c,4,5,5,1,0,80
+Kusal Mendis,c,19,30,49,1,1,63.33
+Sadeera Samarawickrama,c,41,42,53,4,0,97.61
+Charith Asalanka,c,108,105,159,6,5,102.85
+Angelo Mathews,timed,0,0,4,0,0,0
+Dhananjaya de Silva,st,34,36,58,4,1,94.44
+Maheesh Theekshana,c,21,31,35,3,0,67.74
+Dushmantha Chameera,run,4,9,17,0,0,44.44
+Kasun Rajitha,c,0,2,1,0,0,0
+Dilshan Madushanka,not,0,1,3,0,0,0
+Devon Conway,c,0,9,16,0,0,0
+Will Young,b,17,27,41,3,0,62.96
+Rachin Ravindra,c,75,87,133,6,1,86.2
+Daryl Mitchell,c,130,127,192,9,5,102.36
+Tom Latham,lbw,5,7,16,1,0,71.42
+Glenn Phillips,c,23,26,36,0,1,88.46
+Mark Chapman,c,6,8,11,0,0,75
+Mitchell Santner,b,1,2,3,0,0,50
+Matt Henry,b,0,1,1,0,0,0
+Lockie Ferguson,run,1,5,12,0,0,20
+Trent Boult,not,0,1,1,0,0,0
+David Warner,c,81,65,77,5,6,124.61
+Travis Head,b,109,67,94,10,7,162.68
+Mitchell Marsh,b,36,51,65,2,0,70.58
+Steven Smith,c,18,17,19,2,0,105.88
+Marnus Labuschagne,c,18,26,36,2,0,69.23
+Glenn Maxwell,c,41,24,37,5,2,170.83
+Josh Inglis,c,38,28,48,4,1,135.71
+Pat Cummins,lbw,37,14,23,2,4,264.28
+Mitchell Starc,c,1,3,7,0,0,33.33
+Adam Zampa,b,0,3,2,0,0,0
+Josh Hazlewood,not,0,0,1,0,0,0
+Vikramjit Singh,c,2,16,28,0,0,12.5
+Max O'Dowd,c,18,25,33,4,0,72
+Colin Ackermann,b,12,25,40,1,0,48
+Bas de Leede,lbw,2,7,16,0,0,28.57
+Sybrand Engelbrecht,c,19,37,41,1,1,51.35
+Teja Nidamanuru,lbw,20,25,56,3,0,80
+Scott Edwards,not,78,69,102,10,1,113.04
+Logan van Beek,st,10,27,22,1,0,37.03
+Roelof van der Merwe,c,29,19,30,3,1,152.63
+Aryan Dutt,not,23,9,14,0,3,255.55
+Quinton de Kock,c,4,2,3,1,0,200
+Reeza Hendricks,b,85,75,111,9,3,113.33
+Rassie van der Dussen,c,60,61,86,8,0,98.36
+Aiden Markram,c,42,44,63,4,0,95.45
+Heinrich Klaasen,b,109,67,119,12,4,162.68
+David Miller,c,5,6,7,1,0,83.33
+Marco Jansen,not,75,42,72,3,6,178.57
+Gerald Coetzee,c,3,3,2,0,0,100
+Keshav Maharaj,not,1,1,1,0,0,100
+Quinton de Kock,c,3,14,27,0,0,21.42
+Temba Bavuma,c,0,4,5,0,0,0
+Rassie van der Dussen,c,6,31,53,0,0,19.35
+Aiden Markram,c,10,20,24,2,0,50
+Heinrich Klaasen,b,47,48,76,4,2,97.91
+David Miller,c,101,116,138,8,5,87.06
+Marco Jansen,lbw,0,1,1,0,0,0
+Gerald Coetzee,c,19,39,42,2,0,48.71
+Keshav Maharaj,c,4,8,13,0,0,50
+Kagiso Rabada,c,10,12,18,0,1,83.33
+Tabraiz Shamsi,not,1,5,11,0,0,20
+Jonny Bairstow,c,33,35,57,4,1,94.28
+Dawid Malan,c,14,24,36,2,0,58.33
+Joe Root,b,77,86,140,4,1,89.53
+Harry Brook,c,25,16,20,4,1,156.25
+Moeen Ali,b,11,17,20,1,0,64.7
+Jos Buttler,c,43,42,48,2,2,102.38
+Liam Livingstone,c,20,22,23,3,0,90.9
+Sam Curran,c,14,19,30,0,0,73.68
+Chris Woakes,c,11,12,15,1,0,91.66
+Adil Rashid,not,15,13,23,0,1,115.38
+Mark Wood,not,13,14,19,0,0,92.85
+Pathum Nissanka,c,61,67,103,8,0,91.04
+Kusal Perera,b,78,82,123,12,0,95.12
+Kusal Mendis,c,9,13,27,0,0,69.23
+Sadeera Samarawickrama,lbw,8,8,15,1,0,100
+Charith Asalanka,c,25,39,75,0,1,64.1
+Dhananjaya de Silva,b,7,13,13,1,0,53.84
+Dunith Wellalage,run,2,9,9,0,0,22.22
+Chamika Karunaratne,lbw,2,11,12,0,0,18.18
+Maheesh Theekshana,lbw,0,5,7,0,0,0
+Lahiru Kumara,b,4,8,6,1,0,50
+Dilshan Madushanka,not,0,6,12,0,0,0
+Rahmanullah Gurbaz,c,47,62,112,4,1,75.8
+Ibrahim Zadran,c,22,25,41,3,1,88
+Rahmat Shah,c,18,25,30,1,0,72
+Hashmatullah Shahidi,c,18,38,34,2,0,47.36
+Najibullah Zadran,b,5,13,16,0,0,38.46
+Mohammad Nabi,b,6,12,19,0,0,50
+Azmatullah Omarzai,b,22,20,32,4,0,110
+Rashid Khan,b,9,16,16,1,0,56.25
+Mujeeb Ur Rahman,b,1,4,9,0,0,25
+Naveen-ul-Haq,c,0,6,8,0,0,0
+Fazalhaq Farooqi,not,0,3,3,0,0,0
+David Warner,c,41,52,76,6,0,78.84
+Mitchell Marsh,c,0,6,11,0,0,0
+Steven Smith,b,46,71,112,5,0,64.78
+Marnus Labuschagne,c,27,41,58,1,0,65.85
+Glenn Maxwell,b,15,25,44,1,0,60
+Alex Carey,lbw,0,2,1,0,0,0
+Cameron Green,c,8,20,31,0,0,40
+Pat Cummins,c,15,24,26,1,1,62.5
+Mitchell Starc,c,28,35,58,2,1,80
+Adam Zampa,c,6,20,28,0,0,30
+Josh Hazlewood,not,1,1,6,0,0,100
+Travis Head,c,11,10,8,1,0,110
+David Warner,c,15,16,29,1,1,93.75
+Steven Smith,c,44,52,85,3,0,84.61
+Marnus Labuschagne,lbw,71,83,111,7,0,85.54
+Josh Inglis,c,3,6,5,0,0,50
+Cameron Green,b,47,52,81,5,0,90.38
+Marcus Stoinis,c,35,32,53,3,2,109.37
+Pat Cummins,c,10,13,17,1,0,76.92
+Mitchell Starc,c,10,13,30,0,0,76.92
+Adam Zampa,c,29,19,23,4,0,152.63
+Josh Hazlewood,not,1,1,1,0,0,100
+Tanzid Hasan,c,36,34,55,6,0,105.88
+Litton Das,c,36,45,76,5,0,80
+Najmul Hossain Shanto,run,45,57,59,6,0,78.94
+Towhid Hridoy,c,74,79,121,5,2,93.67
+Mahmudullah,run,32,28,34,1,3,114.28
+Mushfiqur Rahim,c,21,24,27,0,1,87.5
+Mehidy Hasan Miraz,c,29,20,33,4,0,145
+Nasum Ahmed,run,7,11,15,0,0,63.63
+Mahedi Hasan,not,2,3,4,0,0,66.66
+Taskin Ahmed,not,0,1,2,0,0,0
+Jonny Bairstow,b,52,59,80,8,0,88.13
+Dawid Malan,b,140,107,106,16,5,130.84
+Joe Root,c,82,68,107,8,1,120.58
+Jos Buttler,b,20,10,11,1,1,200
+Harry Brook,c,20,15,23,3,0,133.33
+Liam Livingstone,b,0,1,1,0,0,0
+Sam Curran,c,11,15,20,1,0,73.33
+Chris Woakes,c,14,11,21,2,0,127.27
+Adil Rashid,c,11,7,8,1,0,157.14
+Mark Wood,not,6,5,6,1,0,120
+Reece Topley,not,1,2,2,0,0,50
+Rahmanullah Gurbaz,run,80,57,87,8,4,140.35
+Ibrahim Zadran,c,28,48,73,3,0,58.33
+Rahmat Shah,st,3,8,10,0,0,37.5
+Hashmatullah Shahidi,b,14,36,46,0,0,38.88
+Azmatullah Omarzai,c,19,24,25,1,1,79.16
+Ikram Alikhil,c,58,66,92,3,2,87.87
+Mohammad Nabi,c,9,15,14,1,0,60
+Rashid Khan,c,23,22,37,3,0,104.54
+Mujeeb Ur Rahman,c,28,16,22,3,1,175
+Naveen-ul-Haq,run,5,6,9,1,0,83.33
+Fazalhaq Farooqi,not,2,4,7,0,0,50
+Jonny Bairstow,c,30,31,64,3,0,96.77
+Dawid Malan,c,28,25,32,6,0,112
+Joe Root,run,3,10,14,0,0,30
+Ben Stokes,c,43,73,98,6,0,58.9
+Jos Buttler,c,8,6,6,1,0,133.33
+Liam Livingstone,lbw,1,6,9,0,0,16.66
+Moeen Ali,c,15,15,33,1,0,100
+Chris Woakes,c,0,4,8,0,0,0
+David Willey,not,14,17,34,1,1,82.35
+Adil Rashid,run,2,7,7,0,0,28.57
+Mark Wood,st,5,6,6,1,0,83.33
+Devon Conway,c,32,40,51,5,1,80
+Will Young,c,70,80,106,7,2,87.5
+Rachin Ravindra,c,51,51,87,3,1,100
+Daryl Mitchell,b,48,47,67,5,2,102.12
+Tom Latham,st,53,46,72,6,1,115.21
+Glenn Phillips,c,4,4,6,1,0,100
+Mark Chapman,c,5,13,11,0,0,38.46
+Mitchell Santner,not,36,17,25,3,2,211.76
+Matt Henry,not,10,4,6,0,1,250
+Rahmanullah Gurbaz,c,21,25,38,2,0,84
+Ibrahim Zadran,not,129,143,217,8,3,90.2
+Rahmat Shah,c,30,44,61,1,0,68.18
+Hashmatullah Shahidi,b,26,43,50,2,0,60.46
+Azmatullah Omarzai,c,22,18,23,1,2,122.22
+Mohammad Nabi,b,12,10,15,0,1,120
+Rashid Khan,not,35,18,25,2,3,194.44
+Abdullah Shafique,c,9,17,21,1,0,52.94
+Imam-ul-Haq,c,12,18,35,2,0,66.66
+Babar Azam,c,50,65,100,4,1,76.92
+Mohammad Rizwan,c,31,27,35,4,1,114.81
+Iftikhar Ahmed,c,21,31,38,1,1,67.74
+Saud Shakeel,c,52,52,81,7,0,100
+Shadab Khan,c,43,36,53,3,2,119.44
+Mohammad Nawaz,c,24,24,32,1,2,100
+Shaheen Shah Afridi,c,2,4,10,0,0,50
+Mohammad Wasim,c,7,9,13,0,1,77.77
+Haris Rauf,not,0,1,5,0,0,0
+Quinton de Kock,c,114,116,176,10,3,98.27
+Temba Bavuma,c,24,28,37,4,1,85.71
+Rassie van der Dussen,b,133,118,172,9,5,112.71
+David Miller,c,53,30,48,2,4,176.66
+Heinrich Klaasen,not,15,7,13,1,1,214.28
+Aiden Markram,not,6,1,1,0,1,600
+Quinton de Kock,c,100,84,140,12,3,119.04
+Temba Bavuma,lbw,8,5,9,2,0,160
+Rassie van der Dussen,c,108,110,161,13,2,98.18
+Aiden Markram,c,106,54,84,14,3,196.29
+Heinrich Klaasen,c,32,20,30,1,3,160
+David Miller,not,39,21,36,3,2,185.71
+Marco Jansen,not,12,7,15,0,1,171.42
+Mitchell Marsh,c,9,15,15,2,0,60
+David Warner,c,104,93,182,11,3,111.82
+Steven Smith,c,71,68,88,9,1,104.41
+Marnus Labuschagne,c,62,47,60,7,2,131.91
+Josh Inglis,c,14,12,12,1,1,116.66
+Glenn Maxwell,c,106,44,53,9,8,240.9
+Cameron Green,run,8,11,15,1,0,72.72
+Pat Cummins,not,12,9,39,2,0,133.33
+Mitchell Starc,c,0,1,1,0,0,0
+Adam Zampa,not,1,1,2,0,0,100
+Tanzid Hasan,lbw,51,43,75,5,3,118.6
+Litton Das,c,66,82,124,7,0,80.48
+Najmul Hossain Shanto,lbw,8,17,18,0,0,47.05
+Mehidy Hasan Miraz,c,3,13,15,0,0,23.07
+Towhid Hridoy,c,16,35,54,0,0,45.71
+Mushfiqur Rahim,c,38,46,60,1,1,82.6
+Mahmudullah,b,46,36,60,3,3,127.77
+Nasum Ahmed,c,14,18,21,2,0,77.77
+Mustafizur Rahman,not,1,7,19,0,0,14.28
+Shoriful Islam,not,7,3,2,0,1,233.33
+Quinton de Kock,b,109,106,147,8,5,102.83
+Temba Bavuma,c,35,55,84,2,0,63.63
+Rassie van der Dussen,c,26,30,33,2,0,86.66
+Aiden Markram,c,56,44,61,7,1,127.27
+Heinrich Klaasen,c,29,27,40,3,0,107.4
+David Miller,b,17,13,35,1,1,130.76
+Marco Jansen,c,26,22,25,3,1,118.18
+Kagiso Rabada,not,0,1,4,0,0,0
+Keshav Maharaj,not,0,2,1,0,0,0
+Devon Conway,lbw,20,18,27,3,0,111.11
+Will Young,c,54,64,98,4,3,84.37
+Rachin Ravindra,b,32,41,64,2,1,78.04
+Daryl Mitchell,c,1,7,6,0,0,14.28
+Tom Latham,b,68,74,114,3,2,91.89
+Glenn Phillips,c,71,80,109,4,4,88.75
+Mark Chapman,not,25,12,15,2,1,208.33
+Mitchell Santner,not,7,5,13,1,0,140
+Pathum Nissanka,c,46,60,82,5,0,76.66
+Dimuth Karunaratne,lbw,15,21,25,1,0,71.42
+Kusal Mendis,c,39,50,91,3,0,78
+Sadeera Samarawickrama,lbw,36,40,42,3,0,90
+Charith Asalanka,c,22,28,48,2,0,78.57
+Dhananjaya de Silva,b,14,26,24,1,0,53.84
+Angelo Mathews,c,23,26,61,1,1,88.46
+Dushmantha Chameera,run,1,4,5,0,0,25
+Maheesh Theekshana,b,29,31,31,3,1,93.54
+Kasun Rajitha,run,5,7,14,0,0,71.42
+Dilshan Madushanka,not,0,4,5,0,0,0
+Rohit Sharma,c,40,24,32,6,2,166.66
+Shubman Gill,b,23,24,54,4,1,95.83
+Virat Kohli,not,101,121,195,10,0,83.47
+Shreyas Iyer,c,77,87,101,7,2,88.5
+KL Rahul,c,8,17,29,0,0,47.05
+Suryakumar Yadav,c,22,14,19,5,0,157.14
+Ravindra Jadeja,not,29,15,21,3,1,193.33
+David Warner,c,163,124,180,14,9,131.45
+Mitchell Marsh,c,121,108,139,10,9,112.03
+Glenn Maxwell,c,0,1,1,0,0,0
+Steven Smith,c,7,9,17,0,0,77.77
+Marcus Stoinis,lbw,21,24,46,1,1,87.5
+Josh Inglis,c,13,9,10,3,0,144.44
+Marnus Labuschagne,c,8,12,23,1,0,66.66
+Pat Cummins,not,6,8,17,0,0,75
+Mitchell Starc,c,2,3,3,0,0,66.66
+Josh Hazlewood,c,0,1,1,0,0,0
+Adam Zampa,not,1,1,4,0,0,100
+Jonny Bairstow,c,15,17,29,2,0,88.23
+Dawid Malan,run,87,74,92,10,2,117.56
+Joe Root,b,28,35,53,1,0,80
+Ben Stokes,c,108,84,136,6,6,128.57
+Harry Brook,c,11,16,19,2,0,68.75
+Jos Buttler,c,5,11,12,0,0,45.45
+Moeen Ali,c,4,15,20,0,0,26.66
+Chris Woakes,c,51,45,66,5,1,113.33
+David Willey,c,6,2,1,0,1,300
+Gus Atkinson,not,2,1,7,0,0,200
+Adil Rashid,not,1,1,3,0,0,100
+Tanzid Hasan,lbw,0,5,7,0,0,0
+Litton Das,c,45,64,100,6,0,70.31
+Najmul Hossain Shanto,c,4,3,8,1,0,133.33
+Mushfiqur Rahim,c,5,8,18,1,0,62.5
+Mahmudullah,b,56,70,108,6,1,80
+Shakib Al Hasan,c,43,64,82,4,0,67.18
+Towhid Hridoy,c,7,3,9,0,1,233.33
+Mehidy Hasan Miraz,b,25,30,50,1,1,83.33
+Taskin Ahmed,b,6,13,20,0,0,46.15
+Mustafizur Rahman,b,3,7,11,0,0,42.85
+Shoriful Islam,not,1,4,8,0,0,25
+Pathum Nissanka,c,51,61,79,7,1,83.6
+Kusal Perera,c,0,4,7,0,0,0
+Kusal Mendis,c,122,77,124,14,6,158.44
+Sadeera Samarawickrama,c,108,89,139,11,2,121.34
+Charith Asalanka,c,1,3,5,0,0,33.33
+Dhananjaya de Silva,c,25,34,47,3,0,73.52
+Dasun Shanaka,c,12,18,23,0,0,66.66
+Dunith Wellalage,c,10,8,18,1,0,125
+Maheesh Theekshana,b,0,4,6,0,0,0
+Matheesha Pathirana,not,1,3,3,0,0,33.33
+Rohit Sharma,c,61,54,74,8,2,112.96
+Shubman Gill,c,51,32,49,3,4,159.37
+Virat Kohli,b,51,56,69,5,1,91.07
+Shreyas Iyer,not,128,94,145,10,5,136.17
+KL Rahul,c,102,64,98,11,4,159.37
+Suryakumar Yadav,not,2,1,1,0,0,200
+Devon Conway,c,35,39,48,6,0,89.74
+Rachin Ravindra,c,108,94,170,15,1,114.89
+Kane Williamson,c,95,79,111,10,2,120.25
+Daryl Mitchell,b,29,18,32,4,1,161.11
+Mark Chapman,b,39,27,42,7,0,144.44
+Glenn Phillips,b,41,25,40,4,2,164
+Mitchell Santner,not,26,17,27,0,2,152.94
+Tom Latham,not,2,2,4,0,0,100
+Rahmanullah Gurbaz,c,21,28,65,3,1,75
+Ibrahim Zadran,c,22,28,31,4,0,78.57
+Rahmat Shah,lbw,16,22,37,3,0,72.72
+Hashmatullah Shahidi,lbw,80,88,128,8,1,90.9
+Azmatullah Omarzai,b,62,69,82,2,4,89.85
+Mohammad Nabi,lbw,19,27,52,1,0,70.37
+Najibullah Zadran,c,2,8,6,0,0,25
+Rashid Khan,c,16,12,18,1,1,133.33
+Mujeeb Ur Rahman,not,10,12,22,2,0,83.33
+Naveen-ul-Haq,not,9,8,8,1,0,112.5
+Abdullah Shafique,lbw,58,75,89,5,2,77.33
+Imam-ul-Haq,c,17,22,44,2,0,77.27
+Babar Azam,c,74,92,121,4,1,80.43
+Mohammad Rizwan,c,8,10,8,0,1,80
+Saud Shakeel,c,25,34,35,3,0,73.52
+Shadab Khan,c,40,38,75,1,1,105.26
+Iftikhar Ahmed,c,40,27,40,2,4,148.14
+Shaheen Shah Afridi,not,3,3,4,0,0,100
+Rahmanullah Gurbaz,c,25,22,45,3,1,113.63
+Ibrahim Zadran,c,15,30,52,3,0,50
+Rahmat Shah,c,26,46,58,2,0,56.52
+Hashmatullah Shahidi,c,2,7,5,0,0,28.57
+Azmatullah Omarzai,not,97,107,173,7,3,90.65
+Ikram Alikhil,c,12,14,16,1,1,85.71
+Mohammad Nabi,c,2,3,7,0,0,66.66
+Rashid Khan,c,14,30,42,0,0,46.66
+Noor Ahmad,c,26,32,36,4,0,81.25
+Mujeeb Ur Rahman,c,8,5,7,0,1,160
+Naveen-ul-Haq,run,2,4,12,0,0,50
+Vikramjit Singh,c,3,9,7,0,0,33.33
+Max O'Dowd,c,0,3,11,0,0,0
+Wesley Barresi,c,41,41,49,8,0,100
+Colin Ackermann,c,15,33,50,1,0,45.45
+Scott Edwards,c,68,89,122,6,0,76.4
+Bas de Leede,c,17,32,49,2,0,53.12
+Sybrand Engelbrecht,lbw,35,61,72,3,0,57.37
+Logan van Beek,not,23,16,33,2,1,143.75
+Shariz Ahmad,run,6,8,13,0,0,75
+Aryan Dutt,c,9,6,7,0,1,150
+Paul van Meekeren,lbw,0,2,6,0,0,0
+Dawid Malan,c,31,39,61,5,0,79.48
+Jonny Bairstow,c,59,61,81,7,1,96.72
+Joe Root,c,60,72,115,4,0,83.33
+Ben Stokes,b,84,76,85,11,2,110.52
+Jos Buttler,run,27,18,39,3,1,150
+Harry Brook,c,30,17,24,2,2,176.47
+Moeen Ali,b,8,6,10,0,1,133.33
+Chris Woakes,not,4,4,19,1,0,100
+David Willey,c,15,5,5,2,1,300
+Gus Atkinson,b,0,1,1,0,0,0
+Adil Rashid,not,0,1,1,0,0,0
+Pathum Nissanka,lbw,0,1,2,0,0,0
+Dimuth Karunaratne,lbw,0,1,10,0,0,0
+Kusal Mendis,b,1,10,21,0,0,10
+Sadeera Samarawickrama,c,0,4,4,0,0,0
+Charith Asalanka,c,1,24,42,0,0,4.16
+Angelo Mathews,b,12,25,55,1,0,48
+Dushan Hemantha,c,0,1,1,0,0,0
+Dushmantha Chameera,c,0,6,10,0,0,0
+Maheesh Theekshana,not,12,23,37,2,0,52.17
+Kasun Rajitha,c,14,17,20,2,0,82.35
+Dilshan Madushanka,c,5,6,4,1,0,83.33
+Vikramjit Singh,c,52,67,97,4,1,77.61
+Max O'Dowd,c,5,12,24,1,0,41.66
+Colin Ackermann,b,17,21,24,3,0,80.95
+Bas de Leede,b,67,68,92,6,2,98.52
+Teja Nidamanuru,c,5,9,10,1,0,55.55
+Scott Edwards,lbw,0,2,2,0,0,0
+Saqib Zulfiqar,lbw,10,18,24,1,0,55.55
+Roelof van der Merwe,run,4,7,18,0,0,57.14
+Logan van Beek,not,28,28,36,3,1,100
+Aryan Dutt,b,1,2,6,0,0,50
+Paul van Meekeren,b,7,12,17,1,0,58.33
+David Warner,c,7,3,6,1,0,233.33
+Travis Head,c,137,120,166,15,4,114.16
+Mitchell Marsh,c,15,15,15,1,1,100
+Steven Smith,lbw,4,9,11,1,0,44.44
+Marnus Labuschagne,not,58,110,133,4,0,52.72
+Glenn Maxwell,not,2,1,1,0,0,200
+Jonny Bairstow,b,14,23,53,2,0,60.86
+Dawid Malan,b,16,17,25,2,1,94.11
+Joe Root,lbw,0,1,2,0,0,0
+Ben Stokes,b,0,10,14,0,0,0
+Jos Buttler,b,10,23,33,1,0,43.47
+Moeen Ali,c,15,31,55,0,0,48.38
+Liam Livingstone,lbw,27,46,56,2,0,58.69
+Chris Woakes,st,10,20,21,1,0,50
+David Willey,not,16,17,29,0,2,94.11
+Adil Rashid,b,13,20,19,2,0,65
+Mark Wood,b,0,1,3,0,0,0
+Pathum Nissanka,c,54,52,69,9,0,103.84
+Kusal Perera,c,5,8,17,1,0,62.5
+Kusal Mendis,c,11,17,22,2,0,64.7
+Sadeera Samarawickrama,not,91,107,168,7,0,85.04
+Charith Asalanka,b,44,66,70,2,1,66.66
+Dhananjaya de Silva,b,30,37,57,1,2,81.08
+Dushan Hemantha,not,4,3,7,1,0,133.33
+Tanzid Hasan,c,12,17,30,1,0,70.58
+Litton Das,lbw,22,44,78,3,1,50
+Najmul Hossain Shanto,c,0,1,1,0,0,0
+Shakib Al Hasan,c,1,4,4,0,0,25
+Mushfiqur Rahim,c,8,17,24,1,0,47.05
+Mahmudullah,c,111,111,150,11,4,100
+Mehidy Hasan Miraz,c,11,19,26,1,0,57.89
+Nasum Ahmed,c,19,19,27,3,0,100
+Hasan Mahmud,c,15,25,32,2,0,60
+Mustafizur Rahman,c,11,21,51,2,0,52.38
+Shoriful Islam,not,6,4,4,1,0,150
+Devon Conway,lbw,45,59,91,3,0,76.27
+Rachin Ravindra,c,9,13,12,2,0,69.23
+Kane Williamson,retired,78,107,158,8,1,72.89
+Daryl Mitchell,not,89,67,103,6,4,132.83
+Glenn Phillips,not,16,11,22,1,1,145.45
+Rohit Sharma,c,86,63,91,6,6,136.5
+Shubman Gill,c,16,11,11,4,0,145.45
+Virat Kohli,c,16,18,31,3,0,88.88
+Shreyas Iyer,not,53,62,80,3,2,85.48
+KL Rahul,not,19,29,33,2,0,65.51
+Devon Conway,c,45,42,54,9,0,107.14
+Rachin Ravindra,c,42,34,61,3,3,123.52
+Kane Williamson,b,14,15,26,2,0,93.33
+Daryl Mitchell,c,43,31,45,5,2,138.7
+Mark Chapman,run,7,6,13,1,0,116.66
+Glenn Phillips,not,17,10,15,3,0,170
+Tom Latham,not,2,2,3,0,0,100
+Devon Conway,c,13,15,26,3,0,86.66
+Rachin Ravindra,c,13,22,39,3,0,59.09
+Kane Williamson,c,69,73,116,8,1,94.52
+Daryl Mitchell,c,134,119,180,9,7,112.6
+Tom Latham,lbw,0,2,1,0,0,0
+Glenn Phillips,c,41,33,58,4,2,124.24
+Mark Chapman,c,2,5,5,0,0,40
+Mitchell Santner,c,9,10,20,0,0,90
+Tim Southee,c,9,10,14,1,0,90
+Trent Boult,not,2,2,5,0,0,100
+Lockie Ferguson,c,6,3,2,0,1,200
+Rahmanullah Gurbaz,c,10,11,24,2,0,90.9
+Ibrahim Zadran,b,20,34,44,2,0,58.82
+Rahmat Shah,c,52,54,74,8,0,96.29
+Hashmatullah Shahidi,not,56,64,92,6,0,87.5
+Azmatullah Omarzai,not,31,28,38,3,0,110.71
+Tanzid Hasan,c,9,5,11,2,0,180
+Litton Das,lbw,23,22,36,2,2,104.54
+Najmul Hossain Shanto,b,90,101,163,12,0,89.1
+Shakib Al Hasan,c,82,65,128,12,2,126.15
+Mahmudullah,b,22,23,37,3,1,95.65
+Mushfiqur Rahim,b,10,13,21,1,0,76.92
+Towhid Hridoy,not,15,7,22,0,2,214.28
+Mehidy Hasan Miraz,c,3,5,9,0,0,60
+Tanzim Hasan Sakib,not,5,6,6,1,0,83.33
+Rohit Sharma,b,46,40,44,4,4,115
+Shubman Gill,c,26,31,53,5,0,83.87
+Virat Kohli,c,95,104,154,8,2,91.34
+Shreyas Iyer,c,33,29,32,6,0,113.79
+KL Rahul,lbw,27,35,43,3,0,77.14
+Suryakumar Yadav,run,2,4,8,0,0,50
+Ravindra Jadeja,not,39,44,63,3,1,88.63
+Mohammed Shami,not,1,1,2,0,0,100
+Devon Conway,c,28,17,35,6,0,164.7
+Will Young,c,32,37,44,4,1,86.48
+Rachin Ravindra,c,116,89,137,9,5,130.33
+Daryl Mitchell,c,54,51,59,6,1,105.88
+Tom Latham,c,21,22,29,2,0,95.45
+Glenn Phillips,c,12,16,21,1,0,75
+James Neesham,run,58,39,64,3,3,148.71
+Mitchell Santner,c,17,12,13,1,1,141.66
+Matt Henry,c,9,8,14,1,0,112.5
+Trent Boult,not,10,8,21,0,1,125
+Lockie Ferguson,not,0,1,1,0,0,0
+Temba Bavuma,b,16,31,35,2,1,51.61
+Quinton de Kock,c,20,22,28,3,0,90.9
+Rassie van der Dussen,c,4,7,16,0,0,57.14
+Aiden Markram,b,1,3,4,0,0,33.33
+Heinrich Klaasen,c,28,28,36,4,0,100
+David Miller,b,43,52,81,4,1,82.69
+Marco Jansen,b,9,25,22,0,0,36
+Gerald Coetzee,c,22,23,33,2,1,95.65
+Keshav Maharaj,c,40,37,54,5,1,108.1
+Kagiso Rabada,c,9,6,9,0,1,150
+Lungi Ngidi,not,7,24,35,0,0,29.16
+Jonny Bairstow,c,10,12,13,1,1,83.33
+Dawid Malan,c,6,11,30,1,0,54.54
+Joe Root,c,2,6,9,0,0,33.33
+Ben Stokes,c,5,8,20,1,0,62.5
+Harry Brook,lbw,17,25,33,2,1,68
+Jos Buttler,c,15,7,14,2,1,214.28
+David Willey,c,12,12,24,1,1,100
+Adil Rashid,c,10,14,14,1,0,71.42
+Gus Atkinson,b,35,21,31,7,0,166.66
+Mark Wood,not,43,17,25,2,5,252.94
+Travis Head,b,62,48,62,9,2,129.16
+David Warner,b,29,18,29,1,4,161.11
+Mitchell Marsh,c,0,6,5,0,0,0
+Steven Smith,c,30,62,102,2,0,48.38
+Marnus Labuschagne,lbw,18,31,28,2,0,58.06
+Glenn Maxwell,b,1,5,8,0,0,20
+Josh Inglis,b,28,49,66,3,0,57.14
+Mitchell Starc,not,16,38,61,2,0,42.1
+Pat Cummins,not,14,29,32,2,0,48.27
+Devon Conway,not,152,121,147,19,3,125.61
+Will Young,c,0,1,5,0,0,0
+Rachin Ravindra,not,123,96,141,11,5,128.12
+Mitchell Marsh,run,52,51,67,9,0,101.96
+David Warner,lbw,11,6,16,0,1,183.33
+Steven Smith,lbw,0,5,4,0,0,0
+Marnus Labuschagne,c,40,60,100,2,0,66.66
+Josh Inglis,c,58,59,75,5,1,98.3
+Glenn Maxwell,not,31,21,30,4,2,147.61
+Marcus Stoinis,not,20,10,10,2,1,200
+Tanzid Hasan,run,5,13,19,1,0,38.46
+Litton Das,b,13,18,29,2,0,72.22
+Mehidy Hasan Miraz,c,57,73,89,5,0,78.08
+Najmul Hossain Shanto,not,59,83,112,3,1,71.08
+Shakib Al Hasan,c,14,19,24,2,0,73.68
+Mushfiqur Rahim,not,2,3,6,0,0,66.66
+Rohit Sharma,lbw,0,6,10,0,0,0
+Ishan Kishan,c,0,1,3,0,0,0
+Virat Kohli,c,85,116,171,6,0,73.27
+Shreyas Iyer,c,0,3,2,0,0,0
+KL Rahul,not,97,115,180,8,2,84.34
+Hardik Pandya,not,11,8,17,0,1,137.5
+Jonny Bairstow,c,0,1,1,0,0,0
+Dawid Malan,c,50,64,99,4,1,78.12
+Joe Root,c,13,17,23,2,0,76.47
+Ben Stokes,c,64,90,128,2,3,71.11
+Jos Buttler,c,1,7,10,0,0,14.28
+Moeen Ali,c,42,43,61,6,0,97.67
+Liam Livingstone,c,2,5,6,0,0,40
+Chris Woakes,c,32,33,52,4,1,96.96
+David Willey,c,15,14,19,3,0,107.14
+Adil Rashid,c,20,15,23,1,1,133.33
+Mark Wood,not,0,0,1,0,0,0
+Travis Head,b,10,11,11,2,0,90.9
+David Warner,c,53,61,90,6,0,86.88
+Mitchell Marsh,not,177,132,177,17,9,134.09
+Steven Smith,not,63,64,99,4,1,98.43
+Litton Das,c,76,66,99,7,2,115.15
+Tanzid Hasan,c,1,2,7,0,0,50
+Najmul Hossain Shanto,c,0,1,1,0,0,0
+Shakib Al Hasan,b,1,9,16,0,0,11.11
+Mehidy Hasan Miraz,c,8,7,12,1,0,114.28
+Mushfiqur Rahim,c,51,64,93,4,0,79.68
+Towhid Hridoy,c,39,61,70,2,0,63.93
+Mahedi Hasan,b,14,32,39,1,0,43.75
+Taskin Ahmed,b,15,25,35,0,1,60
+Shoriful Islam,b,12,14,17,2,0,85.71
+Mustafizur Rahman,not,3,9,12,0,0,33.33
+Jonny Bairstow,lbw,2,4,5,0,0,50
+Dawid Malan,c,32,39,61,4,0,82.05
+Joe Root,b,11,17,23,2,0,64.7
+Harry Brook,c,66,61,123,7,1,108.19
+Jos Buttler,b,9,18,21,1,0,50
+Liam Livingstone,lbw,10,14,15,1,0,71.42
+Sam Curran,c,10,23,22,0,0,43.47
+Chris Woakes,b,9,26,21,1,0,34.61
+Adil Rashid,c,20,13,24,2,0,153.84
+Mark Wood,b,18,22,26,3,0,81.81
+Reece Topley,not,15,7,8,3,0,214.28
+Pathum Nissanka,not,77,83,110,7,2,92.77
+Kusal Perera,c,4,5,8,1,0,80
+Kusal Mendis,c,11,12,15,2,0,91.66
+Sadeera Samarawickrama,not,65,54,84,7,1,120.37
+Vikramjit Singh,b,12,20,22,1,0,60
+Max O'Dowd,lbw,16,31,40,2,0,51.61
+Colin Ackermann,c,69,73,98,5,0,94.52
+Bas de Leede,c,18,25,21,3,0,72
+Teja Nidamanuru,run,21,26,28,2,1,80.76
+Scott Edwards,c,30,27,37,2,1,111.11
+Sybrand Engelbrecht,c,29,34,55,3,0,85.29
+Roelof van der Merwe,c,1,6,9,0,0,16.66
+Ryan Klein,lbw,8,15,23,0,0,53.33
+Aryan Dutt,b,11,20,19,0,1,55
+Paul van Meekeren,not,4,3,5,1,0,133.33
+David Warner,b,18,29,46,3,0,62.06
+Travis Head,c,0,2,5,0,0,0
+Mitchell Marsh,lbw,24,11,22,2,2,218.18
+Marnus Labuschagne,run,14,28,53,2,0,50
+Josh Inglis,c,0,1,1,0,0,0
+Glenn Maxwell,not,201,128,181,21,10,157.03
+Marcus Stoinis,lbw,6,7,13,1,0,85.71
+Mitchell Starc,c,3,7,8,0,0,42.85
+Pat Cummins,not,12,68,122,1,0,17.64
+Temba Bavuma,c,28,27,49,4,1,103.7
+Quinton de Kock,c,24,14,19,5,0,171.42
+Rassie van der Dussen,lbw,21,39,71,0,0,53.84
+Aiden Markram,c,91,93,151,7,3,97.84
+Heinrich Klaasen,c,12,10,12,0,1,120
+David Miller,c,29,33,55,2,2,87.87
+Marco Jansen,c,20,14,18,2,1,142.85
+Gerald Coetzee,c,10,13,23,0,0,76.92
+Keshav Maharaj,not,7,21,44,1,0,33.33
+Lungi Ngidi,c,4,14,24,0,0,28.57
+Tabraiz Shamsi,not,4,6,14,0,0,66.66
+Devon Conway,c,2,6,13,0,0,33.33
+Will Young,c,33,37,50,5,0,89.18
+Rachin Ravindra,c,9,16,28,1,0,56.25
+Daryl Mitchell,c,24,30,40,4,0,80
+Tom Latham,c,4,15,18,0,0,26.66
+Glenn Phillips,c,60,50,87,4,4,120
+Mitchell Santner,b,7,18,14,1,0,38.88
+Tim Southee,lbw,7,11,11,1,0,63.63
+James Neesham,b,0,8,6,0,0,0
+Trent Boult,c,9,14,17,1,0,64.28
+Matt Henry,not,0,9,20,0,0,0
+Pathum Nissanka,b,0,3,6,0,0,0
+Kusal Perera,b,7,15,42,1,0,46.66
+Kusal Mendis,c,76,42,55,4,8,180.95
+Sadeera Samarawickrama,c,23,19,22,3,1,121.05
+Charith Asalanka,c,79,65,83,8,4,121.53
+Dhananjaya de Silva,c,11,14,28,1,0,78.57
+Dasun Shanaka,b,68,62,86,6,3,109.67
+Dunith Wellalage,c,0,1,2,0,0,0
+Kasun Rajitha,c,33,31,52,4,1,106.45
+Matheesha Pathirana,b,5,16,25,1,0,31.25
+Dilshan Madushanka,not,4,2,4,1,0,200
+Vikramjit Singh,run,25,25,28,6,0,100
+Max O'Dowd,b,6,9,21,1,0,66.66
+Colin Ackermann,lbw,10,11,21,2,0,90.9
+Sybrand Engelbrecht,c,11,21,36,1,0,52.38
+Bas de Leede,lbw,4,7,7,1,0,57.14
+Scott Edwards,not,12,22,53,0,0,54.54
+Teja Nidamanuru,c,14,18,19,2,0,77.77
+Logan van Beek,c,0,3,3,0,0,0
+Roelof van der Merwe,lbw,0,1,1,0,0,0
+Aryan Dutt,lbw,1,8,9,0,0,12.5
+Paul van Meekeren,st,0,1,2,0,0,0
+Rohit Sharma,c,48,40,51,7,2,120
+Shubman Gill,c,53,55,80,5,2,96.36
+Virat Kohli,not,103,97,113,6,4,106.18
+Shreyas Iyer,c,19,25,38,2,0,76
+KL Rahul,not,34,34,44,3,1,100
+Mitchell Marsh,c,7,15,27,0,0,46.66
+David Warner,c,13,27,33,2,0,48.14
+Steven Smith,lbw,19,16,20,4,0,118.75
+Marnus Labuschagne,c,46,74,125,3,0,62.16
+Josh Inglis,b,5,4,5,1,0,125
+Glenn Maxwell,c,3,17,17,0,0,17.64
+Marcus Stoinis,c,5,4,6,1,0,125
+Mitchell Starc,c,27,51,69,3,0,52.94
+Pat Cummins,c,22,21,29,4,0,104.76
+Adam Zampa,not,11,16,25,1,0,68.75
+Josh Hazlewood,c,2,2,1,0,0,100
+Rahmanullah Gurbaz,b,11,21,24,0,1,52.38
+Ibrahim Zadran,c,14,15,27,2,0,93.33
+Rahmat Shah,c,36,62,86,1,0,58.06
+Hashmatullah Shahidi,c,8,29,30,1,0,27.58
+Azmatullah Omarzai,c,27,32,39,2,0,84.37
+Ikram Alikhil,not,19,21,42,3,0,90.47
+Mohammad Nabi,b,7,9,10,1,0,77.77
+Rashid Khan,c,8,13,10,0,1,61.53
+Mujeeb Ur Rahman,c,4,3,2,1,0,133.33
+Naveen-ul-Haq,c,0,1,1,0,0,0
+Fazalhaq Farooqi,c,0,2,1,0,0,0
+Rahmanullah Gurbaz,b,0,4,2,0,0,0
+Ibrahim Zadran,c,39,57,73,4,1,68.42
+Rahmat Shah,c,62,74,121,7,0,83.78
+Hashmatullah Shahidi,not,58,74,132,2,1,78.37
+Azmatullah Omarzai,not,73,63,80,6,3,115.87
+Quinton de Kock,b,5,10,9,1,0,50
+Temba Bavuma,b,11,19,39,1,0,57.89
+Rassie van der Dussen,lbw,13,32,55,1,0,40.62
+Aiden Markram,c,9,6,6,2,0,150
+Heinrich Klaasen,lbw,1,11,12,0,0,9.09
+David Miller,b,11,11,17,2,0,100
+Marco Jansen,c,14,30,45,1,0,46.66
+Keshav Maharaj,b,7,11,7,1,0,63.63
+Kagiso Rabada,c,6,26,26,0,0,23.07
+Lungi Ngidi,b,0,3,7,0,0,0
+Tabraiz Shamsi,not,4,4,3,1,0,100
+Abdullah Shafique,c,64,61,93,7,2,104.91
+Imam-ul-Haq,c,70,71,107,10,0,98.59
+Babar Azam,c,18,14,27,3,0,128.57
+Mohammad Rizwan,lbw,46,40,84,5,0,115
+Saud Shakeel,c,30,31,37,5,0,96.77
+Iftikhar Ahmed,lbw,26,20,22,0,3,130
+Mohammad Nawaz,st,14,16,19,0,1,87.5
+Usama Mir,c,0,3,4,0,0,0
+Shaheen Shah Afridi,c,10,8,17,2,0,125
+Hasan Ali,c,8,8,7,2,0,100
+Haris Rauf,not,0,1,3,0,0,0
+Wesley Barresi,run,37,62,77,3,1,59.67
+Max O'Dowd,c,5,11,20,1,0,45.45
+Colin Ackermann,c,0,2,4,0,0,0
+Sybrand Engelbrecht,c,33,49,73,3,1,67.34
+Scott Edwards,c,38,42,67,3,1,90.47
+Bas de Leede,b,10,12,11,2,0,83.33
+Teja Nidamanuru,not,41,34,47,2,3,120.58
+Logan van Beek,c,2,2,3,0,0,100
+Roelof van der Merwe,c,0,4,3,0,0,0
+Aryan Dutt,b,1,3,4,0,0,33.33
+Paul van Meekeren,st,4,3,3,1,0,133.33
+Abdullah Shafique,lbw,68,69,94,9,2,98.55
+Fakhar Zaman,c,81,74,126,3,7,109.45
+Babar Azam,c,9,16,20,1,0,56.25
+Mohammad Rizwan,not,26,21,27,4,0,123.8
+Iftikhar Ahmed,not,17,15,17,2,0,113.33
+Abdullah Shafique,c,113,103,150,10,3,109.7
+Imam-ul-Haq,c,12,12,15,1,0,100
+Babar Azam,c,10,15,17,1,0,66.66
+Mohammad Rizwan,not,131,121,193,8,3,108.26
+Saud Shakeel,c,31,30,57,2,0,103.33
+Iftikhar Ahmed,not,22,10,18,4,0,220
+Wesley Barresi,c,4,5,8,0,0,80
+Max O'Dowd,b,30,42,68,3,1,71.42
+Colin Ackermann,lbw,35,32,46,6,0,109.37
+Sybrand Engelbrecht,b,45,80,87,4,0,56.25
+Scott Edwards,c,17,30,27,1,0,56.66
+Bas de Leede,b,12,21,23,1,0,57.14
+Teja Nidamanuru,c,54,39,65,1,6,138.46
+Logan van Beek,b,16,15,20,2,0,106.66
+Roelof van der Merwe,c,16,8,5,1,2,200
+Aryan Dutt,b,5,11,9,0,0,45.45
+Paul van Meekeren,not,3,4,7,0,0,75
+Abdullah Shafique,c,4,9,8,1,0,44.44
+Fakhar Zaman,not,126,81,103,8,11,155.55
+Babar Azam,not,66,63,93,6,2,104.76
+Rohit Sharma,b,131,84,111,16,5,155.95
+Ishan Kishan,c,47,47,78,5,2,100
+Virat Kohli,not,55,56,64,6,0,98.21
+Shreyas Iyer,not,25,23,31,1,1,108.69
+Rahmanullah Gurbaz,c,65,53,91,9,1,122.64
+Ibrahim Zadran,c,87,113,146,10,0,76.99
+Rahmat Shah,not,77,84,129,5,2,91.66
+Hashmatullah Shahidi,not,48,45,74,4,0,106.66
+Quinton de Kock,lbw,41,47,58,2,3,87.23
+Temba Bavuma,c,23,28,49,3,0,82.14
+Rassie van der Dussen,not,76,95,141,6,1,80
+Aiden Markram,c,25,32,32,1,1,78.12
+Heinrich Klaasen,b,10,13,15,1,0,76.92
+David Miller,c,24,33,35,1,1,72.72
+Andile Phehlukwayo,not,39,37,46,1,3,105.4
+Litton Das,c,3,12,20,0,0,25
+Tanzid Hasan,c,15,16,25,3,0,93.75
+Mehidy Hasan Miraz,c,35,40,51,5,1,87.5
+Najmul Hossain Shanto,c,9,18,27,2,0,50
+Shakib Al Hasan,c,5,14,14,0,0,35.71
+Mushfiqur Rahim,b,1,5,9,0,0,20
+Mahmudullah,c,20,41,70,2,0,48.78
+Mahedi Hasan,run,17,38,51,1,0,44.73
+Taskin Ahmed,c,11,35,49,1,0,31.42
+Mustafizur Rahman,b,20,35,34,2,1,57.14
+Shoriful Islam,not,0,0,1,0,0,0
+Abdullah Shafique,lbw,0,2,2,0,0,0
+Fakhar Zaman,c,1,9,13,0,0,11.11
+Babar Azam,c,38,45,58,6,0,84.44
+Mohammad Rizwan,b,36,51,78,2,0,70.58
+Saud Shakeel,b,29,37,52,4,0,78.37
+Agha Salman,c,51,45,53,6,1,113.33
+Iftikhar Ahmed,c,3,5,8,0,0,60
+Shadab Khan,b,4,7,4,1,0,57.14
+Shaheen Shah Afridi,lbw,25,23,23,3,1,108.69
+Mohammad Wasim,not,16,14,33,2,1,114.28
+Haris Rauf,c,35,23,27,3,3,152.17
